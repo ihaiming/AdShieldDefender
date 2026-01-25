@@ -41,24 +41,51 @@
 
 ### 集成步骤
 
-1. 添加CSS样式
+1. 常见方式
+1.1 添加CSS样式
    ```css
    .adblock-alert {
        /* 完整CSS代码，详见releases */
    }
    ```
-2. 引入JavaScript
+1.2 引入JavaScript
    ```javascript
    (function(){
        // 完整JS代码，详见releases
    })();
    ```
-3. 插入HTML结构
+1.3 插入HTML结构
    ```html
    <div class="adblock-alert" id="adblockAlert">
        <!-- 完整HTML结构，详见releases -->
    </div>
    ```
+
+2. Typecho 集成方法
+
+2.1 HTML部分：将第1部分代码添加到Typecho主题的header.php文件中，放在<body>标签之后
+2.2 CSS部分：将第2部分代码添加到Typecho主题的自定义CSS区域，或添加到主题的CSS文件中
+2.3 JS部分：将第3部分代码添加到Typecho主题的自定义JS区域，或添加到主题的JS文件中
+
+3. 通用网站集成方法
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* 粘贴CSS代码到这里 */
+    </style>
+</head>
+<body>
+    <!-- 粘贴HTML代码到这里 -->
+    
+    <script>
+        // 粘贴JS代码到这里
+    </script>
+</body>
+</html>
+```
 
 ### 详细说明
 
