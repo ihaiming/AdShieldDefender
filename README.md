@@ -115,12 +115,9 @@
 
 ## 更新日志
 
-### v1.0.0 (2025-11-14 10:00:00)
+### v1.0.0 (2025-11-14)
 
 - ✨ 初始版本发布
-- 🎯 7种检测方法集成
-- 🎨 现代化UI设计
-- 📱 响应式布局支持
 
 ## 贡献指南
 
@@ -131,13 +128,6 @@
 3. 提交更改 (git commit -m 'Add some AmazingFeature')
 4. 推送到分支 (git push origin feature/AmazingFeature)
 5. 开启Pull Request
-
-## 问题反馈
-
-如果您在使用过程中遇到任何问题，请通过以下方式联系我们：
-
-- 提交 Issue
-- 加入QQ群: [https://hm0.top/start-page.html](https://hm0.top/start-page.html)
 
 ## 版权与许可证
 
@@ -165,10 +155,25 @@
 - 作者不对因使用本项目而产生的任何损害负责
 - 任何使用、修改或分发行为均视为接受GPL v3许可证条款
 
-完整的法律条款请参阅 LICENSE 文件。
+完整的条款请参阅 [LICENSE](LICENSE) 文件。
 
 ## 法律责任
 
 任何违反上述条款的行为都将被视为侵权，作者保留追究法律责任的权利。
 
 ### ©本版权声明最终解释权归项目作者所有
+
+---
+
+## 联系方式
+
+如有问题或建议，请通过以下方式联系：
+
+- 提交 Issue
+- Contact Us：[https://hm0.top/start-page.html](https://hm0.top/start-page.html)
+
+---
+
+## ⭐ 支持项目
+
+如果这个项目对你有帮助，请给它一个 **Star**！这是对我们最大的鼓励！
